@@ -149,6 +149,7 @@ export const Currency_converter = () => {
           )}
         </div>
       )}
+      <p style={{textAlign:"center",color:"#666",marginTop:"20px",fontSize:"12px"}}>Designed by Ajith Kumar</p>
     </div>
   );
 };
