@@ -154,8 +154,6 @@ export const Currency_converter = () => {
 };
 
 
-//https://v6.exchangerate-api.com/v6/a6956512382affc9c53e1bc0/latest/USD
-
 
 
 
