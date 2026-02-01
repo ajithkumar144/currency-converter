@@ -130,10 +130,9 @@ button:hover {
         height: 100dvh;
         max-width: none;
         border-radius: 0;
-        /* justify-content: center; */
 
         overflow-y: auto;
-        padding: 40px 20px;
+
     }
 
     body {
@@ -148,7 +147,7 @@ button:hover {
 
     input,
     select {
-        padding: 10px;
+        padding: 5px;
         font-size: 16px;
         margin-bottom: 20px;
     }
@@ -162,7 +161,7 @@ button:hover {
     button {
         padding: 15px;
         font-size: 18px;
-        margin-top: 20px;
+        margin-top: 0px;
     }
 
     h2 {
